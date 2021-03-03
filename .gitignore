@@ -3,3 +3,5 @@
 dist/
 *.deb
 *.tbz2
+*.swp
+flash/rootfs/ubuntu_bionic_iot-edge_aarch64.tbz2.conf
